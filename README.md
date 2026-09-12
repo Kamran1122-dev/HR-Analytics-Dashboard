@@ -1,5 +1,14 @@
 # 📊 HR Analytics Dashboard – Power BI
 
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](HR1.png)
+
+![HR Analytics Dashboard](HR2.png)
+
+![HR Analytics Dashboard](HR33.png)
+
+
 ## 📌 Project Overview
 This project is an interactive HR Analytics Dashboard developed using Microsoft Power BI. The dashboard analyses employee data to provide insights into workforce demographics, employee attrition, job satisfaction, salary distribution, overtime, and departmental performance.
 
